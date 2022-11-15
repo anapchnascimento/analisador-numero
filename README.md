@@ -18,7 +18,7 @@
 
 <p align="center">
   <img alt="Analisador de Números" src=".github/preview.png" width="100%">
-</p><br/>
+</p>
 
 <h2 align="center">
     Exemplo:
@@ -37,11 +37,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-<br/>
-
 ## 💻 Projeto
 
-    O Analisador de Números é um projeto que após o preenchimento dos números desejados, o programa analisa a quantidade de dados cadastrados, o maior valor, o menor valor, a soma de todos os valores e a média.
+O Analisador de Números é um projeto que após o preenchimento dos números desejados, o programa analisa a quantidade de dados cadastrados, o maior valor, o menor valor, a soma de todos os valores e a média.
 
 
 ## :memo: Licença
